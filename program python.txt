@@ -1,0 +1,11 @@
+a= int(input("Enter a number"))
+b= int(input("Enter a nubmer"))
+
+print("Floor division :",a//b)
+
+print("a power b :",a**b)
+
+if a==b:
+    print("this is true")
+else:
+    print("This is false")
